@@ -26,6 +26,8 @@ results/
 logs/
 
 # Jupyter notebooks e checkpoints
+notebooks/
+notebooks/*.ipynb
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 
