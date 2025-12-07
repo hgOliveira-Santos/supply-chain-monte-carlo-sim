@@ -1,0 +1,1 @@
+python .\src\etl_duckdb.py
